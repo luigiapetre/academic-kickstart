@@ -63,12 +63,12 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "luigia.petre@abo.fi"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  address = "Faculty of Science and Engineering, Åbo Akademi University, Information Technology, the Agora building, Domkyrkotorget 3, 20500 Åbo, Finland"
+  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "+358-2-215-4030"
+  skype = "luigiasky"
+  #telegram = ""
+  #keybase = ""  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -99,11 +99,11 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "coffee"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "playfair"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
