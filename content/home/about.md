@@ -10,16 +10,16 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
+    "Formal Methods",
+    "Data Science",
     "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "Åbo Akademi University"
+  year = 2005
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Luigia Petre is a docent (the equivalent of Habilitation in Central Europe) in Computer Science with focus on Networked Systems since 2012. She has obtained her PhD in Computer Science in 2005, from the Faculty on Mathematics and Natural Sciences at Åbo Akademi University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Luigia was born in Romania. 
